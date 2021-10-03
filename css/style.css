@@ -1,5 +1,18 @@
 body {
-    color : rgb(43, 107, 226);
+    color : rgb(34, 35, 37);
     text-align: center;
-    font-family: "Helvetica Neue",Helvetica
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 16px;
+    padding : 0;
+    margin: 0;
+}
+.container {
+    width:70%;
+    padding : 1em;
+    text-align: left;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+#container h1 {
+    font-size: 20px;
 }
